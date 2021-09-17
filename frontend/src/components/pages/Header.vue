@@ -25,7 +25,7 @@
             </div>
             <div class="section_2">
                 <div class="top_logo">
-                    <a href="#"><img src="../assets/giflog.gif" alt=""></a>
+                    <a href="#"><img src="../../assets/giflog.gif" alt=""></a>
                 </div>
                 <div class="serch">
                     <form>
@@ -42,22 +42,8 @@
                     </form>
                 </div>
                 <div class="card">
-                    <a href="#"><img src="../assets/alldipeHeaderimg2.png" alt=""></a>
+                    <a href="#"><img src="../../assets/alldipeHeaderimg2.png" alt=""></a>
                 </div>
-            </div>
-            <div class="section_3">
-                <ul class="top_menu">
-                    <li><a href="#">전체 카테고리</a></li>
-                    <li><a href="#">추석특가</a></li>
-                    <li><a href="#">플렉스위크</a></li>
-                    <li><a href="#">할인클럽</a></li>
-                    <li><a href="#">오늘의 추천</a></li>
-                    <li><a href="#">신상</a></li>
-                    <li><a href="#">베스트</a></li>
-                    <li><a href="#">무료배송</a></li>
-                    <li><a href="#">기획전</a></li>
-                    <li><a href="#">쿠폰</a></li>
-                </ul>
             </div>
     </div>
 
@@ -145,31 +131,6 @@ legend {
     display: none;
 }
 
-.section_3 {
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
-}
-
-.section_3 .top_menu {
-    width: 1000px;
-    margin: 0 auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-}
-
-.section_3 .top_menu li {
-    padding: 10px 0;
-}
-
-.section_3 .top_menu li:nth-child(1) {
-    text-align: start;
-    width: 196px;
-    border-right: 1px solid #ddd;
-    border-left: 1px solid #ddd;
-
-}
 
 
 </style>
